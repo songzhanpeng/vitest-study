@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`the fruit list contains orange 1`] = `
+[
+  "orange",
+]
+`;
